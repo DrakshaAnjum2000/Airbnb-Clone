@@ -79,7 +79,10 @@ Running commands with npm `npm run [command]`
 | command         | description                              |
 | :-------------- | :--------------------------------------- |
 | `dev`           | Starts a development instance of the app |
-![Screenshot (29)](https://github.com/DrakshaAnjum2000/Airbnb-Clone/assets/![Screenshot (35)](https://github.com/DrakshaAnjum2000/Airbnb-Clone/assets/108967981/99900ef4-ebd2-48f9-9cf8-d3d007c7ebd3)
+
+
+[Screenshot (29)](https://github.com/DrakshaAnjum2000/Airbnb-Clone/assets/!)
+[Screenshot (35)](https://github.com/DrakshaAnjum2000/Airbnb-Clone/assets/108967981/99900ef4-ebd2-48f9-9cf8-d3d007c7ebd3)
 108967981/d184!
 [Screenshot (38)](https://github.com/DrakshaAnjum2000/Airbnb-Clone/assets/108967981/bc4992c0-22f4-4d64-9f1e-ac8f80b1f280)
 3f5e-9754-4c7f-bc88-d8ef33469ce8)
