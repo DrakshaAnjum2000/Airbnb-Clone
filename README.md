@@ -1,6 +1,12 @@
 # Airbnb-Clone
 This project was inspired by Airbnb and serves as a learning exercise for web development and full-stack technologies.
+![Screenshot (35)](https://github.com/DrakshaAnjum2000/Airbnb-Clone/assets/108967981/5612ad8f-290b-4ba1-9b10-3b0a5ef8af91)
+![Screenshot (36)](https://github.com/DrakshaAnjum2000/Airbnb-Clone/assets/108967981/dd1d69c9-a1dd-43cd-9286-69b278f7bd8c)
+![Screenshot (38)](https://github.com/DrakshaAnjum2000/Airbnb-Clone/assets/108967981/aba0c333-7c39-446b-9da3-879bd19a2641)
+
+
 This is a repository for a Full Stack Airbnb Clone with Next.js 13 App Router: React, Tailwind, Prisma, MongoDB, NextAuth.
+
 
 Features:
 
@@ -81,11 +87,7 @@ Running commands with npm `npm run [command]`
 | `dev`           | Starts a development instance of the app |
 
 
-[Screenshot (29)](https://github.com/DrakshaAnjum2000/Airbnb-Clone/assets/!)
-[Screenshot (35)](https://github.com/DrakshaAnjum2000/Airbnb-Clone/assets/108967981/99900ef4-ebd2-48f9-9cf8-d3d007c7ebd3)
-108967981/d184!
-[Screenshot (38)](https://github.com/DrakshaAnjum2000/Airbnb-Clone/assets/108967981/bc4992c0-22f4-4d64-9f1e-ac8f80b1f280)
-3f5e-9754-4c7f-bc88-d8ef33469ce8)
+
 
 
 
